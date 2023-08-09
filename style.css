@@ -1,0 +1,29 @@
+body {
+    min-height: 100vh;
+}
+
+.box {
+    padding: 1rem;
+    background-color: brown;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.box2 {
+    font-size: larger;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.px {
+    margin: 0.5rem;
+    padding: 3rem;
+    font-size: 4rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.bottom {
+    font-size: 2rem;
+    font-weight: 700;
+}
